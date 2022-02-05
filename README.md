@@ -1,7 +1,7 @@
 # Introduction-to-Data-Visualization
 Introductory concepts to visualization with Python libraries.
 
-## (new) Categorical-Data_Vis
+## Categorical-Data_Vis
 
 - 1_Plots-for-Categorical-Data
 
@@ -20,7 +20,7 @@ Introductory concepts to visualization with Python libraries.
 - 7_Matplotlib_BivariateComparisons-Plot
 - 8_Matplotlib_PlottingStyles
 
-## (new) Matrix-Plots
+## Matrix-Plots
 
 - Heatmap()
 
