@@ -1,6 +1,10 @@
 # Introduction-to-Data-Visualization
 Introductory concepts to visualization with Python libraries.
 
+## (new) Categorical-Data_Vis
+
+- 1_Plots-for-Categorical-Data
+
 ## Distributions-PMFs-and-CDFs
 
 - 1_Comparing-Distributions
@@ -16,6 +20,10 @@ Introductory concepts to visualization with Python libraries.
 - 7_Matplotlib_BivariateComparisons-Plot
 - 8_Matplotlib_PlottingStyles
 
+## (new) Matrix-Plots
+
+- Heatmap()
+
 ## Seaborn
 
 - 1_Seaborn_Basic-Structure
@@ -27,6 +35,7 @@ Introductory concepts to visualization with Python libraries.
 - 7_Seaborn_Point-Plots
 - 8_Seaborn_Customizing-Seaborn-Plots
 - 9_Seaborn_Titles&Labels
+- 10_Small-Multiples-Plotting
 
 ## Types-of-Plots
 
@@ -37,5 +46,14 @@ Introductory concepts to visualization with Python libraries.
 - 5_Histograms
 
 ### Correlation-and-Simple-Linear Regression
+- Correlation
+- Correlation Coefficient
+- Simple Linear Regression
+- Limist of SLR
 
 ### Sample-Case-of-Putting-it-all-together
+- Histogram
+- Bar Plot
+- Line Plot
+- Scatter Plots
+- Layering Plots
