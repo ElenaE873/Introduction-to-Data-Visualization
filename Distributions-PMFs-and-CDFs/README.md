@@ -1,13 +1,5 @@
-# Categorical-Data_Vis
-Visualizing Categorical Data.
+# Distributions-PMFs-and-CDFs
 
-#### 1_Plots-for-Categorical-Data
-- stripplot
-- swarmplot
-- boxplot
-- violinplot
-- lvplot
-- barplot
-- pointplot
-- countplot
-- regplot
+
+#### 1_Comparing-Distributions
+- PMF-vs-CDF
